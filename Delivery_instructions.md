@@ -4,13 +4,13 @@ To submit an assignment, please follow the steps below:
 
 ## Submissions
 
-•	The exercises are structured according to modules and units (e.g., "M1U1 - Introduction to big data and ML")
-•	Each unit has its own assignments to be submitted, usually incorporating a number of individual exercises.
-•	Exercises will generally be Jupyter Notebooks, although they can also be in Markdown or other formats.
-  o	For Jupyter Notebooks, you must follow the instructions and fill in the cells indicated in each notebook, sending the same file (.ipynb).
-  o	For files in other formats, it will be clearly indicated what you have to submit and in which format.
-•	Once you have completed all the assignment exercises, send them all together to the teacher via the assignment submission platform.
-•	For said exercises, always use the following nomenclature.
+-	The exercises are structured according to modules and units (e.g., "M1U1 - Introduction to big data and ML")
+-	Each unit has its own assignments to be submitted, usually incorporating a number of individual exercises.
+-	Exercises will generally be Jupyter Notebooks, although they can also be in Markdown or other formats.
+  -	For Jupyter Notebooks, you must follow the instructions and fill in the cells indicated in each notebook, sending the same file (.ipynb).
+  -	For files in other formats, it will be clearly indicated what you have to submit and in which format.
+-	Once you have completed all the assignment exercises, send them all together to the teacher via the assignment submission platform.
+-	For said exercises, always use the following nomenclature.
 
 ## Programming style
 
