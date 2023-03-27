@@ -42,9 +42,9 @@ Similarly, to refer to an exercise, section, or cell in a message to the teacher
 -	If you have any doubts, questions, or problems, do not hesitate to contact the teacher via private message on the platform.
 -	The teacher will answer questions and correct the assignments as soon as is humanly possible.
 -	If you have any questions about an exercise, don't hesitate to ask:
-        - If you find any problem with the instructions, possible errors, aspects that are not well explained, etc., please let us know as soon as possible so that we can clarify it for you and fix the problem for the rest of the students.
-        - Do not forget to clearly indicate which exercise or section you are referring to, following the nomenclature of the exercises or even with a link to the file in the public repository.
-        - You can also attach the file in a private message on the platform with a question for the teacher, indicating the section you are having a problem with, what is happening, and what you have tried so far.
+    - If you find any problem with the instructions, possible errors, aspects that are not well explained, etc., please let us know as soon as possible so that we can clarify it for you and fix the problem for the rest of the students.
+    - Do not forget to clearly indicate which exercise or section you are referring to, following the nomenclature of the exercises or even with a link to the file in the public repository.
+    - You can also attach the file in a private message on the platform with a question for the teacher, indicating the section you are having a problem with, what is happening, and what you have tried so far.
 
 Finally, we reiterate, we are available on the platform and **the teacher will be happy to assist you with any question or problem :).**
 
