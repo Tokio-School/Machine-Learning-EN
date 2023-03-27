@@ -6,7 +6,7 @@ M1U1 - Exercise 2
 
 - Solving a series of linear algebra mathematical operations problems
 
-Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning/blob/main/Instrucciones%20entregas.md).
+Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md).
 
 **Instructions**
 
