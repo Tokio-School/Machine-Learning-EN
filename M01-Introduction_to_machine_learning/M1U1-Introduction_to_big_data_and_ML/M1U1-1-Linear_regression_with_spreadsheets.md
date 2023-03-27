@@ -8,7 +8,7 @@ M1U1 - Exercise 1
 - We will implement the line fitting formulas in a spreadsheet
 - Graphically represent the initial data and the results
 
-Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions]([https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md]).
+Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md).
 
 **Instructions**
 
