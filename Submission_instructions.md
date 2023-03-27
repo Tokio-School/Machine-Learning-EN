@@ -12,12 +12,6 @@ To submit an assignment, please follow the steps below:
 -	Once you have completed all the assignment exercises, send them all together to the teacher via the assignment submission platform.
 -	For said exercises, always use the following nomenclature.
 
-## Programming style
-
--	Please try to follow the recommended canonical Python style in your exercises: PEP8.
--	As always, it is not a matter of following PEP8 entirely and to the letter (tabs vs. spaces, maximum line length, etc.), but of achieving a minimum level of code readability.
--	The easier it is to read your code, the sooner your questions will be answered, and your assignments corrected.
-
 ## Nomenclature
 Always try to follow the indicated nomenclature to refer to the exercises, their sections or cells, in order for us to be able to clearly identify them when correcting the assignments or answering your questions:
 -	The modules correspond to folders in the repository named "M00-Module_Title".
