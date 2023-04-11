@@ -35,9 +35,9 @@ For 2 main reasons:
 Tutorials:
 
 1. NumPy (these examples simply analyse them on the web):
-  1. [QuickStart](https://numpy.org/devdocs/user/quickstart.html)
-  1. [The basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
-  1. [Fundamentals](https://numpy.org/devdocs/user/basics.html)
+  - [QuickStart](https://numpy.org/devdocs/user/quickstart.html)
+  - [The basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
+  - [Fundamentals](https://numpy.org/devdocs/user/basics.html)
 1. Matplotlib:
   1. [List of available tutorials](https://matplotlib.org/stable/tutorials/index.html): introduction, intermediate, advanced and more.
   1. Download and run at least 2 and, as a tip, check at least 6 to get a good understanding of how Matplotlib works, which can be a bit complex at times.
