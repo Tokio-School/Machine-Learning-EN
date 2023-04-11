@@ -1,8 +1,8 @@
-# **Python and Scikit-learn numerical libraries**
+# Python and Scikit-learn numerical libraries
 
 M1U3 - Exercise 1
 
-**What are we going to do?**
+## What are we going to do?
 
 - A brief overview of Python numerical libraries (NumPy and Matplotlib)
 - Start working with the selected working environment
@@ -10,11 +10,11 @@ M1U3 - Exercise 1
 
 Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md)).
 
-**Instructions**
+## Instructions
 
 In this exercise we will briefly review numerical libraries, you will explore and work with the chosen working environment and you will practice how to download and do exercises from GitHub.
 
-**Working environment**
+### Working environment
 
 One of the objectives of this exercise is to familiarise yourself with your chosen working environment. Therefore, use the following exercises to make sure you master the JupyterLab working environment and interface, particularly for:
 
@@ -23,9 +23,9 @@ One of the objectives of this exercise is to familiarise yourself with your chos
 - How to restart Jupyter notebooks to reset our environment and variables, or clear cell results.
 - How to download the files once they are ready to be submitted.
 
-**Python numerical libraries**
+### Python numerical libraries
 
-_Why do we analyse and run these available tutorials online?_
+*Why do we analyse and run these available tutorials online?*
 
 For 2 main reasons:
 
@@ -48,17 +48,17 @@ Tutorials:
   - Unique tutorial to analyse and run for this exercise: [Example of simple regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
   - Once again, at the bottom of the tutorial listing pages and at the bottom of each tutorial there is a link to download the source code or Jupyter notebook.
 
-_Do you dare to modify any of them, e.g., by modifying their data or the settings of one or more cells or by adding more code? Experiment! ML and all related fields are resolved, and enjoyed, by experimenting :)_
+*Do you dare to modify any of them, e.g., by modifying their data or the settings of one or more cells or by adding more code? Experiment! ML and all related fields are resolved, and enjoyed, by experimenting :)*
 
 Modify at least 3 notebooks in total, the ones that you prefer, and submit them with some type of modification.
 
-**Exercise in the GitHub repository**
+### Exercise in the GitHub repository
 
 You should now prepare your working environment to download the exercises from the course exercise repository, which you will find on the platform:
 
 - If you are using Google Colab, add the GitHub repository to your environment, browse for the file and save a copy to your Google Drive or another repository you own, before you start filling it out.
 - If you are using any type of VM (local or not), Vertex AI Workbench, or another environment, download the file to fill it out.
 
-**Deliverables**
+## Deliverables
 
 You must submit the exercise from the GitHub repository [M1U3-2-Exercises\_libraries.ipynb](https://github.com/Tokio-School/Machine-Learning/blob/main/M01-Introducci%C3%B3n_al_Machine_Learning/M1U3-Librer%C3%ADas_num%C3%A9ricas_de_Python_y_Scikit-learn/M1U3-2-Ejercicios_librer%C3%ADas.ipynb) and the 3 files you downloaded and modified from the numerical libraries tutorials.
