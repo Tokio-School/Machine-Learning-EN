@@ -61,4 +61,4 @@ You should now prepare your working environment to download the exercises from t
 
 ## Deliverables
 
-You must submit the exercise from the GitHub repository [M1U3-2-Libraries\_exercises.ipynb](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/M01-Introduction_to_machine_learning/M1U3-Python_and_Scikit-learn_numerical_libraries/M1U3-2-Libraries_exercises.ipynb)) and the 3 files you downloaded and modified from the numerical libraries tutorials.
+You must submit the exercise from the GitHub repository [M1U3-2-Libraries\_exercises.ipynb](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/M01-Introduction_to_machine_learning/M1U3-Python_and_Scikit-learn_numerical_libraries/M1U3-2-Libraries_exercises.ipynb) and the 3 files you downloaded and modified from the numerical libraries tutorials.
