@@ -8,7 +8,7 @@ M1U2 - Exercise 1
 - Install JupyterLab and Python libraries in our working environment
 - Troubleshooting
 
-Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions]([https://github.com/Tokio-School/Machine-Learning/blob/main/Instrucciones%20entregas.md](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md)).
+Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md)).
 
 **Instructions**
 
