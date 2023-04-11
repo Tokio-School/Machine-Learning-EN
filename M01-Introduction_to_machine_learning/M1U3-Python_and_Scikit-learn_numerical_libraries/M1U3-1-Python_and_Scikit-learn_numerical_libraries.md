@@ -8,7 +8,7 @@ M1U3 - Exercise 1
 - Start working with the selected working environment
 - Practice how to download, complete, and submit assignments
 
-Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md)).
+Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md).
 
 ## Instructions
 
