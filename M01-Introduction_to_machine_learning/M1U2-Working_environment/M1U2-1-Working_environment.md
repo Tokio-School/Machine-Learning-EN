@@ -103,7 +103,7 @@ If needed, we can find an installation guide with different options in each of t
 
 JupyterLab is an extension of Jupyter, which in turn is an evolution of IPython notebooks. All the documentation for JupyterLab is available in their [docs](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) online.
 
-To start JupyterLab in each session, run the command jupyter lab
+To start JupyterLab in each session, run the command `jupyter lab`
 
 PS: Sometimes you will need to restart your VM or your VM session for it to recognise the new jupyter command for the first time.
 
