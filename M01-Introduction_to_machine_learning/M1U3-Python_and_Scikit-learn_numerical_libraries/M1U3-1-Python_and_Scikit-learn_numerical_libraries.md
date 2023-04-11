@@ -36,17 +36,17 @@ Tutorials:
 
 1. NumPy (these examples simply analyse them on the web):
   1. [QuickStart](https://numpy.org/devdocs/user/quickstart.html)
-  2. [The basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
-  3. [Fundamentals](https://numpy.org/devdocs/user/basics.html)
-2. Matplotlib:
+  1. [The basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
+  1. [Fundamentals](https://numpy.org/devdocs/user/basics.html)
+1. Matplotlib:
   1. [List of available tutorials](https://matplotlib.org/stable/tutorials/index.html): introduction, intermediate, advanced and more.
-  2. Download and run at least 2 and, as a tip, check at least 6 to get a good understanding of how Matplotlib works, which can be a bit complex at times.
-  3. At the bottom of the tutorial listing pages and at the bottom of each tutorial there is a link to download the Jupyter source code or notebook.
-  4. PS: If this is your first approach to Matplotlib, it makes sense to start with the 6 introductory tutorials. If you have used Matplotlib before, take this opportunity to review some more advanced case studies and discover something new.
-3. Scikit-learn:
+  1. Download and run at least 2 and, as a tip, check at least 6 to get a good understanding of how Matplotlib works, which can be a bit complex at times.
+  1. At the bottom of the tutorial listing pages and at the bottom of each tutorial there is a link to download the Jupyter source code or notebook.
+  1. PS: If this is your first approach to Matplotlib, it makes sense to start with the 6 introductory tutorials. If you have used Matplotlib before, take this opportunity to review some more advanced case studies and discover something new.
+1. Scikit-learn:
   1. [List of available tutorials](https://scikit-learn.org/stable/auto_examples/index.html) (very complete, you may find it very interesting to go through them during the course, as we explain some of these concepts).
-  2. Unique tutorial to analyse and run for this exercise: [Example of simple regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
-  3. Once again, at the bottom of the tutorial listing pages and at the bottom of each tutorial there is a link to download the source code or Jupyter notebook.
+  1. Unique tutorial to analyse and run for this exercise: [Example of simple regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
+  1. Once again, at the bottom of the tutorial listing pages and at the bottom of each tutorial there is a link to download the source code or Jupyter notebook.
 
 _Do you dare to modify any of them, e.g., by modifying their data or the settings of one or more cells or by adding more code? Experiment! ML and all related fields are resolved, and enjoyed, by experimenting :)_
 
