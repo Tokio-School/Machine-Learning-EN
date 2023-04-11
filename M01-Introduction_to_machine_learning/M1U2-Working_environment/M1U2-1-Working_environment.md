@@ -1,8 +1,8 @@
-# **Working environment**
+# Working environment
 
 M1U2 - Exercise 1
 
-**What are we going to do?**
+## What are we going to do?
 
 - Create a local VM instance (this is optional)
 - Install JupyterLab and Python libraries in our working environment
