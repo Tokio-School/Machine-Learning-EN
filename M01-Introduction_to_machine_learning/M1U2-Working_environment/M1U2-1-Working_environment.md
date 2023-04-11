@@ -10,7 +10,7 @@ M1U2 - Exercise 1
 
 Remember to follow the instructions for the submission of assignments indicated in [Submission Instructions](https://github.com/Tokio-School/Machine-Learning-EN/blob/main/Submission_instructions.md).
 
-**Instructions**
+## Instructions
 
 These instructions will show you how to install a virtual machine locally to complete the exercises in this course and to install JupyterLab and the necessary Python numerical libraries.
 
@@ -29,7 +29,7 @@ We recommend using:
 - If you use Linux/Mac OS: Python Virtual Environment
 - Create a local VM
 
-**Create a local VM (optional)**
+### Create a local VM (optional)
 
 To create a local VM we have several options, depending on our operating system: Oracle VM VirtualBox, Vagrant, QEMU, Windows-specific environments Professional Edition and MacOs, etc.
 
@@ -37,19 +37,19 @@ If you are not familiar with using VMs, for simplicity's sake, we recommend that
 
 To do this, follow the installation instructions of the virtualisation software chosen for your operating system. E.g., for VirtualBox: [www.virtualbox.com](http://www.virtualbox.com/)
 
-**Download Ubuntu**
+#### Download Ubuntu
 
 As an operating system for the course, we will choose Ubuntu, mainly because of its simplicity. If you are sufficiently proficient in any other Linux distribution that supports the Python libraries to be used, you can use another distribution or even another OS, although we will not be able to support you in solving problems with the working environment.
 
 Download Ubuntu Desktop for your architecture: [download Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
-**Create a VM**
+#### Create a VM
 
 Now follow the instructions of your virtualisation software to create a VM with that Ubuntu Desktop image. E.g., for VirtualBox: [Create your first VM](https://www.virtualbox.org/manual/UserManual.html#gui-createvm).
 
 Create a VM with sufficient capacity, according to the resources available on your PC. A VM with at least 8 GB of memory and 20-30 GB of disk space is recommended. Depending on the virtualisation software, the VM resources can be changed afterwards with the VM switched off.
 
-**Install Ubuntu on the VM**
+#### Install Ubuntu on the VM
 
 Power on the VM for the first time and install the Ubuntu Desktop OS on it. Also, search online and install any additional guest components recommended for your virtualisation software on the VM.
 
@@ -57,13 +57,13 @@ These components usually allow us to perform tasks such as connecting USB device
 
 E.g., for VirtualBox: [Host additions](https://www.virtualbox.org/manual/ch04.html)
 
-**Python Environment**
+### Python Environment
 
 For this course we use Python 3 exclusively. Ubuntu Desktop version 20+ uses Python 3 as its default version. Still, make sure you run the right Python version, use Pip for Python 3 and install Python 3 libraries.
 
 _NOTE:_ In Google Colab or Vertex AI Platform you will already have an environment with the libraries installed.
 
-**Virtual environment**
+#### Virtual environment
 
 If we use a VM solely for this course, generally, we should not have problems with version conflicts, since we do not use it for other applications.
 
@@ -72,11 +72,11 @@ As it adds some extra complexity to the course, this step is optional. However, 
 - Pipenv: [docs](https://pipenv-fork.readthedocs.io/en/latest/), [guide](https://realpython.com/pipenv-guide/)
 - Venv: [docs](https://docs.python.org/3/library/venv.html), [guide](https://realpython.com/python-virtual-environments-a-primer/#using-virtual-environments) (note: for Python 3 use "venv", for Python 2 install "virtualenv")
 
-**Updated list of dependencies**
+#### Updated list of dependencies
 
 Make sure that the local dependency listing is updated with the `sudo apt update` command before you start using the environment.
 
-**Pip**
+#### Pip
 
 For a Python package manager, we will use Pip, which is already installed by default with Ubuntu. In some environments we can use the commands `python` and `pip` instead of `python3` and `pip3`.
 
@@ -91,7 +91,7 @@ The typical commands are:
 - Update Python modules: `pip3 install --upgrade name\_of\_the\_module`
 - Check installed modules and their versions: `pip3 freeze` or `pip3 freeze | grep name\_of\_the\_module' 
 
-**Install the necessary libraries**
+#### Install the necessary libraries
 
 We will install NumPy, Matplotlib, Scikit-learn, and JupyterLab libraries:
 
@@ -99,7 +99,7 @@ We will install NumPy, Matplotlib, Scikit-learn, and JupyterLab libraries:
 
 If needed, we can find an installation guide with different options in each of the documentation pages of these programs.
 
-**JupyterLab**
+#### JupyterLab
 
 JupyterLab is an extension of Jupyter, which in turn is an evolution of IPython notebooks. All the documentation for JupyterLab is available in their [docs](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) online.
 
@@ -113,10 +113,10 @@ At the end of the work session, simply shut down the Jupyter server by returning
 
 To install JupyterLab extensions, follow the instructions in the documentation: [JupyterLab extensions](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html)
 
-**Potential problems**
+#### Potential problems
 
 In case of any problem, the best thing to do is to contact the teacher through a message on the platform. We will be more than happy to help you solve it as soon as possible.
 
-**Deliverables**
+## Deliverables
 
 Send a screenshot of your ready-to-use JupyterLab environment, in image format 😀.
