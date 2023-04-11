@@ -74,28 +74,28 @@ As it adds some extra complexity to the course, this step is optional. However, 
 
 **Updated list of dependencies**
 
-Make sure that the local dependency listing is updated with the sudo apt update command before you start using the environment.
+Make sure that the local dependency listing is updated with the `sudo apt update` command before you start using the environment.
 
 **Pip**
 
-For a Python package manager, we will use Pip, which is already installed by default with Ubuntu. In some environments we can use the commands python and pip instead of python3 and pip3.
+For a Python package manager, we will use Pip, which is already installed by default with Ubuntu. In some environments we can use the commands `python` and `pip` instead of `python3` and `pip3`.
 
-If you have used an environment where your default Python version is Python 2, always make sure you use the right commands. In Ubuntu Desktop 20+, we should use python3 and pip3.
+If you have used an environment where your default Python version is Python 2, always make sure you use the right commands. In Ubuntu Desktop 20+, we should use `python3` and `pip3`.
 
 The typical commands are:
 
-- Install: sudo apt-get install python3-pip
-- Check version: pip3 --version
-- Update Pip (not usually necessary): pip3 install --upgrade pip (can be necessary to add sudo -H at the start)
-- Install Python modules: pip3 install name\_of\_the\_module
-- Update Python modules: pip3 install --upgrade name\_of\_the\_module
-- Check installed modules and their versions: pip3 freeze or pip3 freeze | grep name\_of\_the\_module
+- Install: `sudo apt-get install python3-pip`
+- Check version: `pip3 --version`
+- Update Pip (not usually necessary): `pip3 install --upgrade pip` (can be necessary to add `sudo -H` at the start)
+- Install Python modules: `pip3 install name\_of\_the\_module`
+- Update Python modules: `pip3 install --upgrade name\_of\_the\_module`
+- Check installed modules and their versions: `pip3 freeze` or `pip3 freeze | grep name\_of\_the\_module' 
 
 **Install the necessary libraries**
 
 We will install NumPy, Matplotlib, Scikit-learn, and JupyterLab libraries:
 
-pip3 install numpy matplotlib scikit-learn jupyter jupyterlab
+`pip3 install numpy matplotlib scikit-learn jupyter jupyterlab`
 
 If needed, we can find an installation guide with different options in each of the documentation pages of these programs.
 
@@ -107,9 +107,9 @@ To start JupyterLab in each session, run the command `jupyter lab`
 
 PS: Sometimes you will need to restart your VM or your VM session for it to recognise the new jupyter command for the first time.
 
-Follow the instructions on your terminal to connect to the JupyterLab extension of the booted Jupyter server, which will be located at http(s)://\<server:port\>/\<lab-location\>/lab
+Follow the instructions on your terminal to connect to the JupyterLab extension of the booted Jupyter server, which will be located at `http(s)://\<server:port\>/\<lab-location\>/lab`
 
-At the end of the work session, simply shut down the Jupyter server by returning to the terminal with the keys CTRL + C.
+At the end of the work session, simply shut down the Jupyter server by returning to the terminal with the keys `CTRL + C`.
 
 To install JupyterLab extensions, follow the instructions in the documentation: [JupyterLab extensions](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html)
 
