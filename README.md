@@ -1,9 +1,7 @@
 # Machine-Learning
 
 ## Description
-"Introduction to ML" course for Tokio School (2nd edition, 2022)
-
-Instructor, repository maintainer and contact: Marcos Manuel Ortega - info@indavelopers.com
+"Introduction to ML" course for Tokio School
 
 ## Use
 Constantly changing and updating repository, direct access to GitHub is recommended, not local cloning.
